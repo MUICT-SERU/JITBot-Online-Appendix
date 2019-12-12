@@ -4,7 +4,7 @@ This is a website accompanying the paper "JITBot: An Explainable Just-In-Time De
 
 ### Data Set
 
-The data set of 21 open source projects that are analyzed and reported in the paper can be found: [here]().
+The data set of 21 open source projects that are analyzed and reported in the paper can be found: [here](https://github.com/MUICT-SERU/JITBot-Online-Appendix/tree/master/datasets).
 
 ### Support or Contact
 

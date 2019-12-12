@@ -8,4 +8,4 @@ The data set of 21 open source projects that are analyzed and reported in the pa
 
 ### Support or Contact
 
-If you need more information, please contact Jirayus (jirayus.jiarpakdee@monash.edu), Chakkrit (chakkrit@monash.edu), Morakot (morakot.cho@mahidol.ac.th), or Chaiyong (chaiyong.rag@mahidol.ac.th).
+If you need more information, please contact Jirayus (<jirayus.jiarpakdee@monash.edu>), Chakkrit (<chakkrit@monash.edu>), Morakot (<morakot.cho@mahidol.ac.th>), or Chaiyong (<chaiyong.rag@mahidol.ac.th>).
